@@ -9,7 +9,7 @@ Projeto feito para estudo com base no curso do Udemy "Criação de Apps Android 
 ## Recursos
 
 - Pega os GIFs do site giphy.com via API
-- Campo de busca para GIFs específicos
+- Campo de pesquisa para GIFs específicos
 
 ### Imagens
 
