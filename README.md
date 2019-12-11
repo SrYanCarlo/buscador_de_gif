@@ -1,14 +1,14 @@
 # Buscador de GIF
 
-App para buscar e mostrar gifs.
+App para visualização de gifs.
 
 ## Descrição
 
-Projeto feito para estudos com base no curso do Udemy "Criação de Apps Android e iOS com Flutter - Crie 16 Apps" de Daniel Ciolfi.
+Projeto feito para estudo com base no curso do Udemy "Criação de Apps Android e iOS com Flutter - Crie 16 Apps" de Daniel Ciolfi.
 
 ## Recursos
 
-- Pega os GIFs do site Giphy via API
+- Pega os GIFs do site giphy.com via API
 - Campo de busca para GIFs específicos
 
 ### Imagens
