@@ -8,9 +8,9 @@ Projeto feito para estudo com base no curso do Udemy "Criação de Apps Android 
 
 ## Recursos
 
-- Usar os GIFs do site giphy.com via API
-- Campo de pesquisa para procurar por GIFs específicos
-- Opção de compartilhamento (Whatsapp, Facebook, Twitter, etc.)
+- Usar os GIFs do site giphy.com via API;
+- Campo de pesquisa para procurar por GIFs específicos;
+- Opção de compartilhamento (Whatsapp, Facebook, Twitter, etc.);
 
 ### Imagens
 
